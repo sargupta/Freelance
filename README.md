@@ -1,2 +1,2 @@
-# freelance-
+# freelance
 Work related to freelance projects
